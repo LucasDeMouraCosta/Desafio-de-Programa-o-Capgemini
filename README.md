@@ -23,7 +23,7 @@ Abrir o arquivo com extensão .cpp da questão específica no DEV C++ e utilizar
 os seguintes comandos:
 
 F9 para Compilar.
-f10 para Executar.
+F10 para Executar.
 F11 para Compilar & Executar.
 
 
